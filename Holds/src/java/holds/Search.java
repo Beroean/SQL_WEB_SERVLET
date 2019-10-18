@@ -145,6 +145,7 @@ public class Search extends HttpServlet {
     @Override
     public String getServletInfo() {
         return "Short description";
+        // Hey there :)
     }// </editor-fold>
 
 }
